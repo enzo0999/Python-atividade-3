@@ -1,1 +1,0 @@
-# Python-atividade-3
